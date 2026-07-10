@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
