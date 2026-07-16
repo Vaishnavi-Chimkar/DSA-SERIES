@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
@@ -84,4 +85,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
