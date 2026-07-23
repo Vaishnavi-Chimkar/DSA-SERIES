@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0622-design-circular-queue) |
 ## Backtracking
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
+| [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 ## Design
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
