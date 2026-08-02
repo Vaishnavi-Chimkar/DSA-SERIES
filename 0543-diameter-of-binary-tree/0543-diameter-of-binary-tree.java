@@ -14,6 +14,15 @@
  * }
  */
 class Solution {
+    // static class Info{
+    //     int diameter;
+    //     int height;
+
+    //     Info(int diameter,int height){
+    //         this.diameter = diameter;
+    //         this.height = height;
+    //     }
+    // }
     public static int height(TreeNode root){
         if(root == null){
             return 0;
@@ -35,5 +44,18 @@ class Solution {
         int selfdiam = lht+rht;
 
         return Math.max(selfdiam,Math.max(ldiam,rdiam));
+
+        // if(root == null){
+        //     return new Info(0,0);
+        // }
+
+        // Info leftinfo = diameterOfBinaryTree(root.left);
+        // Info rightinfo = diameterOfBinaryTree(root.right);
+
+        // int diam = Math.max(Math.max(leftinfo.diameter,rightinfo.diameter),leftinfo.height+rightinfo.height);
+
+        // int ht = Math.max(leftinfo.height,rightinfo.height)+1;
+
+        // return new Info(diam,ht);
     }
 }
