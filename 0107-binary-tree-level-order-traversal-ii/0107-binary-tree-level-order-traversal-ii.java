@@ -34,7 +34,7 @@ class Solution {
             TreeNode currNode = q.remove();
 
             if(currNode == null){
-                ans.add(0,level);
+                ans.add(level);
                 if(q.isEmpty()){
                     break;
                 }
@@ -51,6 +51,7 @@ class Solution {
             }
         }
 
+        Collections.reverse(ans);
         return ans;
     }
 }
