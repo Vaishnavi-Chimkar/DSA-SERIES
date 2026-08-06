@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
