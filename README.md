@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
 | ------- |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
