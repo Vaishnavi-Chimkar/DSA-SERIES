@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0374-guess-number-higher-or-lower) |
 ## String
 |  |
 | ------- |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0700-search-in-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
