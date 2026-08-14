@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0342-power-of-four) |
 ## Recursion
@@ -231,4 +232,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
