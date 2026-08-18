@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
+| [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
 | ------- |
