@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
@@ -272,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
