@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0088-merge-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
