@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0622-design-circular-queue) |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0202-happy-number) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
