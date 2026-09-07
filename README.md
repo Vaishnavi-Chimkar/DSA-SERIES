@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
@@ -347,5 +349,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
