@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0142-linked-list-cycle-ii) |
