@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Tree
 |  |
 | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0226-invert-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0572-subtree-of-another-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0938-range-sum-of-bst](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
 ## String Matching
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0506-relative-ranks) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
@@ -406,5 +410,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
