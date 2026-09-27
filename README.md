@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0728-self-dividing-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2469-convert-the-temperature](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2469-convert-the-temperature) |
 ## Recursion
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0905-sort-array-by-parity) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1470-shuffle-the-array) |
