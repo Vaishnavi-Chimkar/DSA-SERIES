@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0506-relative-ranks) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0905-sort-array-by-parity) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0374-guess-number-higher-or-lower) |
 ## String
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
