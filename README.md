@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0728-self-dividing-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [2469-convert-the-temperature](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
+| [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
