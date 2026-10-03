@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0342-power-of-four) |
 | [0728-self-dividing-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
