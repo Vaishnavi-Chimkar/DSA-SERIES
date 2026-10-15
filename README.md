@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1137-n-th-tribonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
