@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0290-word-pattern) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
