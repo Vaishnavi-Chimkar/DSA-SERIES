@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0263-ugly-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
