@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0389-find-the-difference) |
+| [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
+| [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
 ## Bit Manipulation
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
