@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2469-convert-the-temperature) |
 ## Recursion
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1991-find-the-middle-index-in-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0078-subsets) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1486-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
@@ -490,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
