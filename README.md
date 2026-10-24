@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0342-power-of-four) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0044-wildcard-matching) |
 | [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0300-longest-increasing-subsequence) |
