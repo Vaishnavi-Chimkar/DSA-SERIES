@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
