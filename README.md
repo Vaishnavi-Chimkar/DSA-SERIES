@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2469-convert-the-temperature](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1929-concatenation-of-array) |
