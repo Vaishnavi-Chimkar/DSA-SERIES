@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
+| [0771-jewels-and-stones](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
