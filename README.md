@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2490-circular-sentence) |
