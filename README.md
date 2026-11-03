@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1143-longest-common-subsequence) |
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
