@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2490-circular-sentence) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
+| [2000-reverse-prefix-of-word](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
