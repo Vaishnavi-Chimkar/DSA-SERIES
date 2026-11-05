@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
+| [0205-isomorphic-strings](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0290-word-pattern) |
