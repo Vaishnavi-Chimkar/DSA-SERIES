@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0283-move-zeroes) |
