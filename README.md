@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0217-contains-duplicate) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
