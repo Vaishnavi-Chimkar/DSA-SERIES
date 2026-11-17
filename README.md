@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2942-find-words-containing-character](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2942-find-words-containing-character) |
 | [3340-check-balanced-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
