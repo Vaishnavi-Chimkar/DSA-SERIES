@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
