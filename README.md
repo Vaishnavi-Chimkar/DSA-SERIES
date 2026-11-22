@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2490-circular-sentence) |
