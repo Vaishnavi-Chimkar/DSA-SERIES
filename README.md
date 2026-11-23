@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0560-subarray-sum-equals-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
 ## Bit Manipulation
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0646-maximum-length-of-pair-chain) |
 | [0720-longest-word-in-dictionary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0720-longest-word-in-dictionary) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
