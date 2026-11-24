@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1859-sorting-the-sentence) |
 ## Design
 |  |
 | ------- |
@@ -587,4 +589,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/Vaishnavi-Chimkar/DSA-SERIES/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
